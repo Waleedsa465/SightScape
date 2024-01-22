@@ -1,0 +1,192 @@
+
+/* Class = "UITabBarItem"; title = "Scan"; ObjectID = "36i-CF-w18"; */
+"36i-CF-w18.title" = "Scan";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "3Rx-nd-Qnd"; */
+"3Rx-nd-Qnd.title" = "History";
+
+/* Class = "UILabel"; text = "Scan History"; ObjectID = "4qB-kd-ZyR"; */
+"4qB-kd-ZyR.text" = "Scan History";
+
+/* Class = "UILabel"; text = "Taha Khan"; ObjectID = "4ss-4O-WTa"; */
+"4ss-4O-WTa.text" = "Taha Khan";
+
+/* Class = "UILabel"; text = "12 June 2023"; ObjectID = "6Dl-SI-uox"; */
+"6Dl-SI-uox.text" = "12 June 2023";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "9OS-q9-r4W"; */
+"9OS-q9-r4W.normalTitle" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "Full Day"; ObjectID = "Atu-it-QcU"; */
+"Atu-it-QcU.text" = "Full Day";
+
+/* Class = "UILabel"; text = "Vendor Login"; ObjectID = "CLu-kJ-hLv"; */
+"CLu-kJ-hLv.text" = "Vendor Login";
+
+/* Class = "UIButton"; normalTitle = "CANCELLED"; ObjectID = "Cq2-P9-jh9"; */
+"Cq2-P9-jh9.normalTitle" = "CANCELLED";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "CwQ-fN-lc1"; */
+"CwQ-fN-lc1.title" = "Menu";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "CxK-vT-3kR"; */
+"CxK-vT-3kR.text" = "Summary";
+
+/* Class = "UILabel"; text = "Cancellation Date"; ObjectID = "DbB-Py-rXY"; */
+"DbB-Py-rXY.text" = "Cancellation Date";
+
+/* Class = "UILabel"; text = "Full Day"; ObjectID = "Dzr-t4-wvi"; */
+"Dzr-t4-wvi.text" = "Full Day";
+
+/* Class = "UILabel"; text = "Booking Required"; ObjectID = "HMv-mn-sZd"; */
+"HMv-mn-sZd.text" = "Booking Required";
+
+/* Class = "UILabel"; text = "SightScape"; ObjectID = "IEX-sN-JGm"; */
+"IEX-sN-JGm.text" = "SightScape";
+
+/* Class = "UILabel"; text = "Scan Pass"; ObjectID = "ImF-MO-DhZ"; */
+"ImF-MO-DhZ.text" = "Scan Pass";
+
+/* Class = "UILabel"; text = "Abdul Hameed"; ObjectID = "IzB-vA-ack"; */
+"IzB-vA-ack.text" = "Abdul Hameed";
+
+/* Class = "UIButton"; normalTitle = "Cancel Scan"; ObjectID = "Ju4-0N-4xl"; */
+"Ju4-0N-4xl.normalTitle" = "Cancel Scan";
+
+/* Class = "UILabel"; text = "No scan history found!"; ObjectID = "LvY-yV-lfd"; */
+"LvY-yV-lfd.text" = "No scan history found!";
+
+/* Class = "UILabel"; text = "Names"; ObjectID = "LyG-if-y7Q"; */
+"LyG-if-y7Q.text" = "Names";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "Mfd-E3-lS3"; */
+"Mfd-E3-lS3.text" = "Pass";
+
+/* Class = "UIButton"; normalTitle = "FAQs"; ObjectID = "NAz-xv-f8Z"; */
+"NAz-xv-f8Z.normalTitle" = "FAQs";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "NfY-zF-dvh"; */
+"NfY-zF-dvh.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "Taha Khan"; ObjectID = "OGS-ab-8mB"; */
+"OGS-ab-8mB.text" = "Taha Khan";
+
+/* Class = "UILabel"; text = "Tour and Guide"; ObjectID = "OUw-sB-e9k"; */
+"OUw-sB-e9k.text" = "Tour and Guide";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "OZ4-zc-Af9"; */
+"OZ4-zc-Af9.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "15 May 2023 - 10:48 AM"; ObjectID = "PRK-AN-YFZ"; */
+"PRK-AN-YFZ.text" = "15 May 2023 - 10:48 AM";
+
+/* Class = "UILabel"; text = "Taha Khan"; ObjectID = "RUT-fa-76V"; */
+"RUT-fa-76V.text" = "Taha Khan";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "Sa7-2K-ycV"; */
+"Sa7-2K-ycV.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "Twg-ec-oly"; */
+"Twg-ec-oly.text" = "Success";
+
+/* Class = "UILabel"; text = "Abdul Hameed"; ObjectID = "VZJ-La-H3x"; */
+"VZJ-La-H3x.text" = "Abdul Hameed";
+
+/* Class = "UILabel"; text = "Group Activity"; ObjectID = "WoD-kq-pLO"; */
+"WoD-kq-pLO.text" = "Group Activity";
+
+/* Class = "UILabel"; text = "Single Scan"; ObjectID = "YVB-Dr-bIM"; */
+"YVB-Dr-bIM.text" = "Single Scan";
+
+/* Class = "UILabel"; text = "Abdul Hameed"; ObjectID = "Yym-0Z-QAX"; */
+"Yym-0Z-QAX.text" = "Abdul Hameed";
+
+/* Class = "UILabel"; text = "Single Scan"; ObjectID = "aBs-6S-D2t"; */
+"aBs-6S-D2t.text" = "Single Scan";
+
+/* Class = "UILabel"; text = "Premium"; ObjectID = "aDA-iF-BBP"; */
+"aDA-iF-BBP.text" = "Premium";
+
+/* Class = "UILabel"; text = "Names"; ObjectID = "bcq-a8-ovd"; */
+"bcq-a8-ovd.text" = "Names";
+
+/* Class = "UILabel"; text = "Abdul Hameed"; ObjectID = "bos-yp-axb"; */
+"bos-yp-axb.text" = "Abdul Hameed";
+
+/* Class = "UILabel"; text = "Full day Jeddah historic tour"; ObjectID = "cF5-pG-2N8"; */
+"cF5-pG-2N8.text" = "Full day Jeddah historic tour";
+
+/* Class = "UILabel"; text = "Scan Pass"; ObjectID = "cP4-3P-EAf"; */
+"cP4-3P-EAf.text" = "Scan Pass";
+
+/* Class = "UILabel"; text = "15 May 2023 - 10:48 AM"; ObjectID = "e4R-wb-xYO"; */
+"e4R-wb-xYO.text" = "15 May 2023 - 10:48 AM";
+
+/* Class = "UIButton"; normalTitle = "Cancel Scan"; ObjectID = "f8H-hd-JCU"; */
+"f8H-hd-JCU.normalTitle" = "Cancel Scan";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "fnF-Lg-z5a"; */
+"fnF-Lg-z5a.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Welcome to SightScape Vendor scanning app! Easily scan tickets, keep track of attendees, and view your scan history with just a few taps. We're here to make the scanning process smooth and flawless!"; ObjectID = "fx9-MH-mvC"; */
+"fx9-MH-mvC.text" = "Welcome to SightScape Vendor scanning app! Easily scan tickets, keep track of attendees, and view your scan history with just a few taps. We're here to make the scanning process smooth and flawless!";
+
+/* Class = "UIButton"; normalTitle = "How it works?"; ObjectID = "gQO-6e-uXZ"; */
+"gQO-6e-uXZ.normalTitle" = "How it works?";
+
+/* Class = "UILabel"; text = "Single Scan"; ObjectID = "gU5-91-kW5"; */
+"gU5-91-kW5.text" = "Single Scan";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "gi4-A8-IeU"; */
+"gi4-A8-IeU.text" = "Pass";
+
+/* Class = "UILabel"; text = "Excursion"; ObjectID = "h50-9N-8Jq"; */
+"h50-9N-8Jq.text" = "Excursion";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "hM1-Aj-rWa"; */
+"hM1-Aj-rWa.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "1x"; ObjectID = "hdf-YD-2yk"; */
+"hdf-YD-2yk.normalTitle" = "1x";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "hsO-hG-YF6"; */
+"hsO-hG-YF6.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "j6d-W2-gBJ"; */
+"j6d-W2-gBJ.text" = "FAQs";
+
+/* Class = "UILabel"; text = "Sponsored"; ObjectID = "kux-9m-ah9"; */
+"kux-9m-ah9.text" = "Sponsored";
+
+/* Class = "UILabel"; text = "Welcome back! Please enter your credentials."; ObjectID = "laE-X6-fLG"; */
+"laE-X6-fLG.text" = "Welcome back! Please enter your credentials.";
+
+/* Class = "UILabel"; text = "10:48 PM"; ObjectID = "mb9-UI-E8a"; */
+"mb9-UI-E8a.text" = "10:48 PM";
+
+/* Class = "UIButton"; normalTitle = "Support"; ObjectID = "mc5-Lk-Dox"; */
+"mc5-Lk-Dox.normalTitle" = "Support";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "mxc-YH-h2L"; */
+"mxc-YH-h2L.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Excursion"; ObjectID = "nbe-JU-mDB"; */
+"nbe-JU-mDB.text" = "Excursion";
+
+/* Class = "UILabel"; text = "Scanned By"; ObjectID = "q3J-oV-I0l"; */
+"q3J-oV-I0l.text" = "Scanned By";
+
+/* Class = "UIButton"; normalTitle = "عربي"; ObjectID = "q3r-76-B0O"; */
+"q3r-76-B0O.normalTitle" = "عربي";
+
+/* Class = "UILabel"; text = "Cancelled By"; ObjectID = "s0k-32-Vae"; */
+"s0k-32-Vae.text" = "Cancelled By";
+
+/* Class = "UILabel"; text = "Scanned By"; ObjectID = "vp3-lO-162"; */
+"vp3-lO-162.text" = "Scanned By";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "yf0-fi-zuS"; */
+"yf0-fi-zuS.text" = "Summary";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "z0G-uW-aPi"; */
+"z0G-uW-aPi.text" = "Username";
